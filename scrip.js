@@ -36,7 +36,6 @@ function whenClick(btnclass, itemclass) {
 whenClick(".btn-experience", ".experience-item");
 whenClick(".btn-learn", ".learn-item");
 whenClick(".btn-activity", ".activity-item");
-whenClick(".btn-hobby", ".hobby-item");
 whenClick(".btn-language", ".language-item");
 whenClick(".btn-skill", ".skill-item");
 // thêm nút view more và view less cho sở thich
